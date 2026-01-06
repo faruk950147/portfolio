@@ -26,7 +26,7 @@ About | Omar Faruk
     <div class="container" data-aos="fade-up" data-aos-delay="100">
         <div class="row gy-4 justify-content-center">
         <div class="col-lg-4">
-            <img src="{{ asset('assets/img/profile-img.jpg') }}" class="img-fluid" alt="">
+            <img src="{{ asset('frontend/assets/img/profile-img.jpg') }}" class="img-fluid" alt="">
         </div>
         <div class="col-lg-8 content">
             <h2>Web Developer &amp; Designer.</h2>
@@ -326,7 +326,7 @@ About | Omar Faruk
                 <span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
                 <i class="bi bi-quote quote-icon-right"></i>
                 </p>
-                <img src="assets/img/person/person-m-9.webp" class="testimonial-img" alt="">
+                <img src="frontend/assets/img/person/person-m-9.webp" class="testimonial-img" alt="">
                 <h3>Saul Goodman</h3>
                 <h4>Ceo &amp; Founder</h4>
             </div>
@@ -339,7 +339,7 @@ About | Omar Faruk
                 <span>Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.</span>
                 <i class="bi bi-quote quote-icon-right"></i>
                 </p>
-                <img src="assets/img/person/person-f-5.webp" class="testimonial-img" alt="">
+                <img src="frontend/assets/img/person/person-f-5.webp" class="testimonial-img" alt="">
                 <h3>Sara Wilsson</h3>
                 <h4>Designer</h4>
             </div>
@@ -352,7 +352,7 @@ About | Omar Faruk
                 <span>Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.</span>
                 <i class="bi bi-quote quote-icon-right"></i>
                 </p>
-                <img src="assets/img/person/person-f-12.webp" class="testimonial-img" alt="">
+                <img src="frontend/assets/img/person/person-f-12.webp" class="testimonial-img" alt="">
                 <h3>Jena Karlis</h3>
                 <h4>Store Owner</h4>
             </div>
@@ -365,7 +365,7 @@ About | Omar Faruk
                 <span>Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.</span>
                 <i class="bi bi-quote quote-icon-right"></i>
                 </p>
-                <img src="assets/img/person/person-m-12.webp" class="testimonial-img" alt="">
+                <img src="frontend/assets/img/person/person-m-12.webp" class="testimonial-img" alt="">
                 <h3>Matt Brandon</h3>
                 <h4>Freelancer</h4>
             </div>
@@ -378,7 +378,7 @@ About | Omar Faruk
                 <span>Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.</span>
                 <i class="bi bi-quote quote-icon-right"></i>
                 </p>
-                <img src="assets/img/person/person-m-13.webp" class="testimonial-img" alt="">
+                <img src="frontend/assets/img/person/person-m-13.webp" class="testimonial-img" alt="">
                 <h3>John Larson</h3>
                 <h4>Entrepreneur</h4>
             </div>

@@ -48,19 +48,19 @@ Portfolio Detail | Omar Faruk
           <div class="swiper-wrapper align-items-center">
 
             <div class="swiper-slide">
-              <img src="{{ asset('assets/img/portfolio/portfolio-1.webp') }}" alt="">
+              <img src="{{ asset('frontend/assets/img/portfolio/portfolio-1.webp') }}" alt="">
             </div>
 
             <div class="swiper-slide">
-              <img src="{{ asset('assets/img/portfolio/portfolio-10.webp') }}" alt="">
+              <img src="{{ asset('frontend/assets/img/portfolio/portfolio-10.webp') }}" alt="">
             </div>
 
             <div class="swiper-slide">
-              <img src="{{ asset('assets/img/portfolio/portfolio-7.webp') }}" alt="">
+              <img src="{{ asset('frontend/assets/img/portfolio/portfolio-7.webp') }}" alt="">
             </div>
 
             <div class="swiper-slide">
-              <img src="{{ asset('assets/img/portfolio/portfolio-4.webp') }}" alt="">
+              <img src="{{ asset('frontend/assets/img/portfolio/portfolio-4.webp') }}" alt="">
             </div>
 
           </div>

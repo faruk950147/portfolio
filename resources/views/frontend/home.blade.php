@@ -10,7 +10,7 @@ Home | Omar Faruk
     <!-- Hero Section -->
     <section id="hero" class="hero section dark-background">
 
-      <img src="{{ asset('assets/img/hero-bg.jpg') }}" alt="" data-aos="fade-in">
+      <img src="{{ asset('frontend/assets/img/hero-bg.jpg') }}" alt="" data-aos="fade-in">
 
       <div class="container" data-aos="zoom-out" data-aos-delay="100">
         <h2>Omar Faruk</h2>
