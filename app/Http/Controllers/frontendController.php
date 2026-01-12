@@ -8,35 +8,35 @@ class frontendController extends Controller
 {
     //HomeView
     public function homeView(){
-        return view('frontend.home');
+        return view('frontend.pages.home');
     }
     //AboutView
     public function aboutView(){
-        return view('frontend.about');
+        return view('frontend.pages.about');
     }
     //ResumeView
     public function resumeView(){
-        return view('frontend.resume');
+        return view('frontend.pages.resume');
     }
     //ServicesView
     public function servicesView(){
-        return view('frontend.services');
+        return view('frontend.pages.services');
     }
     //ServiceDetailView
     public function serviceDetailView(){
-        return view('frontend.services-detail');
+        return view('frontend.pages.services-detail');
     }
     //PortfolioView
     public function portfolioView(){
-        return view('frontend.portfolio');
+        return view('frontend.pages.portfolio');
     }
     //PortfolioDetailView
     public function portfolioDetailView(){
-        return view('frontend.portfolio-detail');
+        return view('frontend.pages.portfolio-detail');
     }
     //ContactView
     public function contactView(){
-        return view('frontend.contact');
+        return view('frontend.pages.contact');
     }
 
 }

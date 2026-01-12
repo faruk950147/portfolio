@@ -29,9 +29,9 @@
 </head>
 
 <body>
-  @include('components.frontend.header')
+  @include('frontend.components.header')
   @yield('content')
-  @include('components.frontend.footer')
+  @include('frontend.components.footer')
   <!-- Vendor JS Files -->
   <script src="{{ asset('frontend/assets/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
   <script src="{{ asset('frontend/assets/vendor/php-email-form/validate.js') }}"></script>

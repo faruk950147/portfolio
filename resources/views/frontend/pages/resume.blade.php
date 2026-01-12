@@ -1,5 +1,4 @@
-
-@extends('base')
+@extends('frontend.base')
 
 @section('title')
 Resume | Omar Faruk
