@@ -10,3 +10,4 @@ Route::get('/portfolio', 'App\Http\Controllers\FrontendController@PortfolioView'
 Route::get('/portfolio-detail', 'App\Http\Controllers\FrontendController@PortfolioDetailView')->name('portfolio-detail');
 Route::get('/service-detail', 'App\Http\Controllers\FrontendController@ServiceDetailView')->name('service-detail');
 Route::get('/contact', 'App\Http\Controllers\FrontendController@ContactView')->name('contact');
+
